@@ -31,7 +31,9 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Indrajith's GitHub stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=indrajithx&theme=radical" alt="GitHub Streak Stats"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indrajithx&layout=compact&theme=radical" alt="Top Languages Used"/>
 </p>
 
 ---
