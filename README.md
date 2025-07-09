@@ -12,7 +12,7 @@
 - 🌱 I’m learning **TypeScript**, **RxJS**, **Routing**, **Component Lifecycle**, and more
 - 💡 Passionate about writing clean, reusable code and exploring frontend best practices
 - 💬 Ask me about **Angular**, **JavaScript**, **Promises**, **Memory Leaks**, or **Routing Guards**
-- 📫 How to reach me: 📧 [your-email@example.com] or 📱 [your phone/WhatsApp if public]
+- 📫 How to reach me: 📧 [indrajithvijayan@gmail.com] or 📱 [+918129422035]
 
 ---
 
