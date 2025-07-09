@@ -31,9 +31,9 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=indrajithx&theme=radical" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=indrajithvijayan&theme=radical" alt="GitHub Streak Stats"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indrajithx&layout=compact&theme=radical" alt="Top Languages Used"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indrajithvijayan&layout=compact&theme=radical" alt="Top Languages Used"/>
 </p>
 
 ---
