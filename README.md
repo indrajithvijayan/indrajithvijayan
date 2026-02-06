@@ -16,19 +16,55 @@
 ---
 
 ### 🚀 Tech Stack & Tools
+<table align="center">
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=angular&theme=dark" width="60"/><br>Angular
+    </td>
+    <td align="center" width="120">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="60"/><br>TypeScript
+    </td>
+    <td align="center" width="120">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="60"/><br>JavaScript
+    </td>
+    <td align="center" width="120">
+      <img src="https://logos-olive.vercel.app/static/media/logo7.143934ddf7e1e9bb2ab6.gif" width="60"/><br>HTML5
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=css&theme=dark" width="60"/><br>CSS3
+    </td>
+  </tr>
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="60"/><br>Bootstrap
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="60"/><br>VS Code
+    </td>
+    <td align="center" width="120">
+      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="60"/><br>C#
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=dotnet&theme=dark" width="60"/><br>.NET
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" width="60"/><br>Visual Studio
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=git&theme=dark" width="60"/><br>Git
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg"
+           width="60"/><br>LeetCode
+    </td>
+  </tr>
+</table>
+
+
 
 
 
