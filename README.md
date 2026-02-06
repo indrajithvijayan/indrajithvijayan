@@ -26,17 +26,7 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=indrajithvijayan&theme=radical" alt="GitHub Streak Stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indrajithvijayan&layout=compact&theme=radical" alt="Top Languages Used"/>
-</p>
-
----
 
 ### 🌱 Currently Learning
 
